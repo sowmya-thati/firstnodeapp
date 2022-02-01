@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/81ec4907-9db6-4d56-86d4-d997209d7be6/resourceGroups/DeLaRuePOCs-RG-TBD331/providers/Microsoft.Web/sites/TSWEBAPPAPI",
+    "appService.deploySubpath": "."
+}
