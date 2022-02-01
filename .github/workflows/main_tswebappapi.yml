@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'TSWEBAPPAPI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E768A06F9110427CBD61FD0D9C33928C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E8EAB3A7216C48D6AA403479DB4E2E49 }}
           package: .
